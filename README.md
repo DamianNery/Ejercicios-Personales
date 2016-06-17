@@ -6,3 +6,5 @@ RegNotas: Sistema de gestion de alumnos realizado con tkinter y SQLite
 Graficar3D: Algunos graficos de cuerpos geometricos en 3D con Turtle
 
 BatallaNaval: Tablero realizado con Turtle. IA de la CPU en desarrollo
+
+Pong: Juego realizado en pyglet
